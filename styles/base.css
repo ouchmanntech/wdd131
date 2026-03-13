@@ -85,13 +85,9 @@ header {
 .course-title {
   font-size: 1.8rem;
   font-weight: 600;
-  margin-bottom: 0.5rem;
-}
-
-span{
-    color: white;
-    text-align: center;
-    padding: 30px;
+  text-align: center;
+  padding:20px;
+  color : var(--gray);
 }
 
 nav {
