@@ -7,7 +7,7 @@
   --dark: #212529;
 }
 
-* {
+ *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -116,13 +116,6 @@ h1 {
   text-align: center;
 }
 
-/* .info {
-    margin: 1.5rem 0;
-  font-style: italic;
-  color: #555;
-  text-align: left;
-} */
-
 hr {
   width: 75%;
   margin: 20px auto;
@@ -135,6 +128,10 @@ hr {
   border: 1px solid #ccc;
   object-fit: cover;
   float: left;
+}
+
+main{
+  background-color: var(--gray);
 }
 
 .animal-description {
